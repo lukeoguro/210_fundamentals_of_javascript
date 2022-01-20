@@ -1,0 +1,23 @@
+{
+  "name": "210_fundamentals_of_javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukeoguro/210_fundamentals_of_javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukeoguro/210_fundamentals_of_javascript/issues"
+  },
+  "homepage": "https://github.com/lukeoguro/210_fundamentals_of_javascript#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
